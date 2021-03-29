@@ -1,4 +1,5 @@
 def turn_count(board)
+  board = board.size 
   count = 0 
   
 end
